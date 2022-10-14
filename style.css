@@ -54,13 +54,13 @@ body{
     /* width: 950px; */
 }
 
-.image{
+img{
     display: block;
     object-fit: cover;
 
 }
 
-.image>img{
+img{
     max-width: 375px;
     min-width: 350px;
 }
@@ -164,7 +164,7 @@ i{
         justify-content: center;
     }
 
-    .image > img {
+    img {
         max-width: 298px;
         min-width: 355px;
     }
